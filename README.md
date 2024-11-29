@@ -3,7 +3,7 @@
 
 webpack5 + react18
 
-pesonal todolist:
+personal todolist:
 
 todo:
 
